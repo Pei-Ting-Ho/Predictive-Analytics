@@ -4,3 +4,7 @@
 /Users/patty/Desktop/DS/GITHUB/Python[[:space:]]Project/Predictive[[:space:]]Analytics/pickup_neighborhoods.csv filter=lfs diff=lfs merge=lfs -text
 /Users/patty/Desktop/DS/GITHUB/Python[[:space:]]Project/Predictive[[:space:]]Analytics/trips.csv filter=lfs diff=lfs merge=lfs -text
 /Users/patty/Desktop/DS/GITHUB/Python[[:space:]]Project/Predictive[[:space:]]Analytics/NYC_Taxi_Trip_Duration_Prediction.ipynb filter=lfs diff=lfs merge=lfs -text
+dropoff_neighborhoods.csv filter=lfs diff=lfs merge=lfs -text
+pickup_neighborhoods.csv filter=lfs diff=lfs merge=lfs -text
+trips.csv filter=lfs diff=lfs merge=lfs -text
+NYC_Taxi_Trip_Duration_Prediction.ipynb filter=lfs diff=lfs merge=lfs -text
